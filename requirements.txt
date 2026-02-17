@@ -144,7 +144,7 @@ SQLAlchemy==2.0.46
 stack-data==0.6.3
 terminado==0.18.1
 testpath==0.6.0
-tinycss2==1.4.0
+tinycss2==1.5.1
 tornado==6.5.4
 tqdm==4.67.3
 traitlets==5.14.3
