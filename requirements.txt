@@ -133,7 +133,7 @@ rfc3987-syntax==1.1.0
 roman==5.2
 rpds-py==0.30.0
 rtree==1.4.1
-scipy==1.17.0
+scipy==1.17.1
 Send2Trash==2.1.0
 setuptools==82.0.0
 shapely==2.1.2
