@@ -158,4 +158,4 @@ webencodings==0.5.1
 websocket-client==1.9.0
 wheel==0.46.3
 widgetsnbextension==4.0.15
-yarl==1.22.0
+yarl==1.23.0
