@@ -1,4 +1,6 @@
-# bpd
+# Boston Police Department Journal Scraper
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Project Status: Abandoned – Initial development has started, but there has not yet been a stable, usable release; the project has been abandoned and the author(s) do not intend on continuing development.](https://www.repostatus.org/badges/latest/abandoned.svg)](https://www.repostatus.org/#abandoned)
 
 Scraping Boston Police Journal pdfs, provided (roughly) daily on https://bpdnews.com/.
 
@@ -8,7 +10,7 @@ Running:
 
 2. Run `scrape_rss.py` to download the PDF files
 
-3. Run `scrape_reports.py` to parse and geocode the PDF files into ~~a CSV file~~ several CSV fles
+3. Run `scrape_reports.py` to parse and geocode the PDF files into CSV fles
 
 4. Run `clean_csvs.py` to clean the addresses into a geocodable format
 
