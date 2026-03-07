@@ -1,2 +1,13 @@
+# api key
+.env
 venv/*
 .venv/*
+
+# caches
+__pycache__
+
+# downloaded pdf files
+*.pdf
+
+# intermediate output
+output.csv
